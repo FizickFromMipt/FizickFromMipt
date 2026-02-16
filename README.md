@@ -1,19 +1,11 @@
-## Hi there 👋 I`m Alex Pevnenko
+## Hi there 👋 I'm Alex Pevnenko
 
-<!--
-**FizickFromMipt/FizickFromMipt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working on cool open-source projects
+- 🌱 Learning Kubernetes, Go, Kotlin
+- 💬 Ask me about Java, Spring Boot, microservices, smart contracts
+- 📫 How to reach me: [Telegram](https://t.me/Fizik_heh)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on cool open-source projects
-- 🌱 I’m currently learning Kubernetes, Go< Kotlin
-- 💬 Ask me about Java, Spring Boot, microservices
-- 📫 How to reach me: [@F](https://t.me/Fizik_heh)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love coffee and code ☕
--->
-
-## 🚀 My Tech Stack
+## 🚀 Backend & Infrastructure
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -23,6 +15,23 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Kafka](https://img.shields.io/badge/ApacheKafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
+## ⛓️ Web3 & Smart Contracts
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+
+## 👥 Leadership & Management
+
+- 🏗️ Team lead experience — building and scaling development teams
+- 📋 Project planning, task decomposition, sprint management
+- 🤝 Code review culture, mentoring, onboarding
+- 📈 Delivery-focused — shipping products from idea to production
+
 ## 📊 GitHub Stats
 
-![CoolDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=FizickFromMipt&show_icons=true&theme=radical)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=FizickFromMipt&show_icons=true&theme=radical)
