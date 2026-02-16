@@ -36,4 +36,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FizickFromMipt&theme=radical)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FizickFromMipt&layout=compact&theme=radical)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FizickFromMipt&theme=radical)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FizickFromMipt&theme=radical)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FizickFromMipt&theme=radical)
